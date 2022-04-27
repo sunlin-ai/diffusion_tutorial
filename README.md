@@ -7,7 +7,8 @@
 - 1 Score matching
 - 2 Langevin dynamics
 - 3 NCSN: Noise conditional score networks
-- 4 DDPM: Denoising Diffusion Probabilistic Models
-- 5 DDPM+: Improved Denoising Diffusion Probabilistic Models
-- 6 DDIM: DENOISING DIFFUSION IMPLICIT MODELS
-- 7 guided-diffusion: Diffusion Models Beat GANs on Image Synthesis
+- 4 DPM:Deep unsupervised learning using nonequilibrium thermodynamics
+- 5 DDPM: Denoising Diffusion Probabilistic Models
+- 6 DDPM+: Improved Denoising Diffusion Probabilistic Models
+- 7 DDIM: DENOISING DIFFUSION IMPLICIT MODELS
+- 8 guided-diffusion: Diffusion Models Beat GANs on Image Synthesis
